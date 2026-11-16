@@ -1,0 +1,26 @@
+system:index,Date,Image_Count,Location,Month,NDVI,.geo,Growth_Stage,Stage_Label
+1_1_0,2025-01,2,Mysuru,1.0,0.4252152190520966,"{""type"":""MultiPoint"",""coordinates"":[]}",Early Growth,0
+1_1_1,2025-02,5,Mysuru,2.0,0.4636027870042564,"{""type"":""MultiPoint"",""coordinates"":[]}",Mid Growth,1
+1_1_2,2025-03,6,Mysuru,3.0,0.676509487597515,"{""type"":""MultiPoint"",""coordinates"":[]}",Late Growth,2
+1_1_3,2025-04,3,Mysuru,4.0,0.7269194988136176,"{""type"":""MultiPoint"",""coordinates"":[]}",Late Growth,2
+1_1_4,2025-05,2,Mysuru,5.0,0.6903768181242843,"{""type"":""MultiPoint"",""coordinates"":[]}",Late Growth,2
+1_1_9,2025-10,1,Mysuru,10.0,0.5868897293293396,"{""type"":""MultiPoint"",""coordinates"":[]}",Mid Growth,1
+1_1_10,2025-11,3,Mysuru,11.0,0.733385903538163,"{""type"":""MultiPoint"",""coordinates"":[]}",Late Growth,2
+1_1_11,2025-12,4,Mysuru,12.0,0.4405750428174029,"{""type"":""MultiPoint"",""coordinates"":[]}",Early Growth,0
+1_2_0,2025-01,8,Srirangapatna,1.0,0.4174943797044478,"{""type"":""MultiPoint"",""coordinates"":[]}",Early Growth,0
+1_2_1,2025-02,10,Srirangapatna,2.0,0.3292752413558169,"{""type"":""MultiPoint"",""coordinates"":[]}",Early Growth,0
+1_2_2,2025-03,11,Srirangapatna,3.0,0.3076789462029279,"{""type"":""MultiPoint"",""coordinates"":[]}",Early Growth,0
+1_2_3,2025-04,7,Srirangapatna,4.0,0.3604599949670839,"{""type"":""MultiPoint"",""coordinates"":[]}",Early Growth,0
+1_2_4,2025-05,5,Srirangapatna,5.0,0.4210921264809084,"{""type"":""MultiPoint"",""coordinates"":[]}",Early Growth,0
+1_2_5,2025-06,1,Srirangapatna,6.0,0.5634482901914232,"{""type"":""MultiPoint"",""coordinates"":[]}",Mid Growth,1
+1_2_9,2025-10,1,Srirangapatna,10.0,0.3458426304183699,"{""type"":""MultiPoint"",""coordinates"":[]}",Early Growth,0
+1_2_10,2025-11,5,Srirangapatna,11.0,0.5679551502941846,"{""type"":""MultiPoint"",""coordinates"":[]}",Mid Growth,1
+1_2_11,2025-12,9,Srirangapatna,12.0,0.4209300009571843,"{""type"":""MultiPoint"",""coordinates"":[]}",Early Growth,0
+2_0,2025-01,2,K.R. Pete,1.0,0.5214431967495338,"{""type"":""MultiPoint"",""coordinates"":[]}",Mid Growth,1
+2_1,2025-02,5,K.R. Pete,2.0,0.4777243566800233,"{""type"":""MultiPoint"",""coordinates"":[]}",Mid Growth,1
+2_2,2025-03,6,K.R. Pete,3.0,0.4737051685879526,"{""type"":""MultiPoint"",""coordinates"":[]}",Mid Growth,1
+2_3,2025-04,2,K.R. Pete,4.0,0.5637484408047819,"{""type"":""MultiPoint"",""coordinates"":[]}",Mid Growth,1
+2_4,2025-05,2,K.R. Pete,5.0,0.5903544827862582,"{""type"":""MultiPoint"",""coordinates"":[]}",Mid Growth,1
+2_9,2025-10,2,K.R. Pete,10.0,0.4621820015090645,"{""type"":""MultiPoint"",""coordinates"":[]}",Mid Growth,1
+2_10,2025-11,2,K.R. Pete,11.0,0.6673758701770265,"{""type"":""MultiPoint"",""coordinates"":[]}",Late Growth,2
+2_11,2025-12,3,K.R. Pete,12.0,0.6059858235207873,"{""type"":""MultiPoint"",""coordinates"":[]}",Late Growth,2
